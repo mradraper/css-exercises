@@ -1,0 +1,19 @@
+.pinkback   {
+    background-color: #e68696;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#bluelet {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#greenback {
+    background-color: #99e299;
+    font-size: 24px;
+    font-weight: bold;
+}
